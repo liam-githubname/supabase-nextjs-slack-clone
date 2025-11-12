@@ -1,9 +1,4 @@
 # Realtime chat example using Supabase
-I was here hehe
-I was here also
-new one
-
-## New Stuff here about testing hehe
 This is a full-stack Slack clone example using:
 
 - Frontend:
@@ -120,6 +115,7 @@ We can use these details to provide fine-grained control over what each user can
 
 Supabase is open source, we'd love for you to follow along and get involved at https://github.com/supabase/supabase
 
-
-
-I've got this shit working for main baby!! I think anyways
+Updating readme in Develop branch to see if my ci/cd pipeline is working
+It didn't work, I think because the code called a secret variable that didn't exist
+Alright 3rd times the charm
+4th times the charm
